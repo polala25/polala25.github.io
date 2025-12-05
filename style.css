@@ -1,10 +1,13 @@
-body{background-color: rgb(236, 201, 206);}
-
+body{
+    background-color: rgb(236, 201, 206);
+    max-width: 800px;
+    margin: auto;
+}
 p
 
 {
     color: darkblue;
-    font-size:x-large;
+    font-size:small;
 
 font-family: Georgia, 'Times New Roman', Times, serif;
 }
